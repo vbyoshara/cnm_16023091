@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494bd113-3f7a-4fd8-b34f-3038c81c220a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QzOtt9fV8ucnwnACpwFSc1QbXG" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\cnm_16023091" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\cnm_16023091" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.step4_QueryScan_ver5.js">
+    <configuration name="Step4_QueryScan_ver1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Step4_QueryScan_ver1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Step4_QueryScan_ver2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Step4_QueryScan_ver2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Step4_QueryScan_ver3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Step4_QueryScan_ver3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="step4_QueryScan_ver4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="step4_QueryScan_ver4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="step4_QueryScan_ver5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="step4_QueryScan_ver5.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.step4_QueryScan_ver5.js" />
+        <item itemvalue="Node.js.step4_QueryScan_ver4.js" />
+        <item itemvalue="Node.js.Step4_QueryScan_ver1.js" />
+        <item itemvalue="Node.js.Step4_QueryScan_ver3.js" />
+        <item itemvalue="Node.js.Step4_QueryScan_ver2.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494bd113-3f7a-4fd8-b34f-3038c81c220a" name="Default Changelist" comment="" />
+      <created>1568770175797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568770175797</updated>
+      <workItem from="1568770177275" duration="1658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
